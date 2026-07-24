@@ -37,87 +37,24 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 
 ## 💻 Tech Stack
 
-**🧠 Languages**
-<p align="left">
-<img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3" width="34" height="34" alt="CSS3"/>
-<img src="https://cdn.simpleicons.org/javascript" width="34" height="34" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="34" alt="Java"/>
-<img src="https://cdn.simpleicons.org/cplusplus" width="34" height="34" alt="C++"/>
-<img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python"/>
-<img src="https://cdn.simpleicons.org/rust/white" width="34" height="34" alt="Rust"/>
-</p>
+## 💻 Tech Stack
 
-**🎨 Frontend**
-<p align="left">
-<img src="https://cdn.simpleicons.org/react" width="34" height="34" alt="React"/>
-<img src="https://cdn.simpleicons.org/vite" width="34" height="34" alt="Vite"/>
-<img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="TailwindCSS"/>
-<img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap"/>
-<img src="https://cdn.simpleicons.org/flutter" width="34" height="34" alt="Flutter"/>
-<img src="https://cdn.simpleicons.org/chartdotjs" width="34" height="34" alt="Chart.js"/>
-</p>
-
-**⚙️ Backend & APIs**
-<p align="left">
-<img src="https://cdn.simpleicons.org/nodedotjs" width="34" height="34" alt="Node.js"/>
-<img src="https://cdn.simpleicons.org/express/white" width="34" height="34" alt="Express.js"/>
-<img src="https://cdn.simpleicons.org/django/white" width="34" height="34" alt="Django"/>
-<img src="https://cdn.simpleicons.org/fastapi" width="34" height="34" alt="FastAPI"/>
-<img src="https://cdn.simpleicons.org/streamlit" width="34" height="34" alt="Streamlit"/>
-<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="34" height="34" alt="JWT"/>
-</p>
-
-**🗄️ Databases**
-<p align="left">
-<img src="https://cdn.simpleicons.org/mysql" width="34" height="34" alt="MySQL"/>
-<img src="https://cdn.simpleicons.org/postgresql" width="34" height="34" alt="PostgreSQL"/>
-<img src="https://cdn.simpleicons.org/mongodb" width="34" height="34" alt="MongoDB"/>
-<img src="https://cdn.simpleicons.org/mariadb/white" width="34" height="34" alt="MariaDB"/>
-<img src="https://cdn.simpleicons.org/prisma/white" width="34" height="34" alt="Prisma"/>
-</p>
-
-**🤖 AI / ML / Data**
-<p align="left">
-<img src="https://cdn.simpleicons.org/numpy" width="34" height="34" alt="NumPy"/>
-<img src="https://cdn.simpleicons.org/pandas/white" width="34" height="34" alt="Pandas"/>
-<img src="https://img.shields.io/badge/-white?style=flat-square&logo=Matplotlib&logoColor=black" height="34" alt="Matplotlib"/>
-<img src="https://cdn.simpleicons.org/pytorch" width="34" height="34" alt="PyTorch"/>
-<img src="https://cdn.simpleicons.org/scikitlearn" width="34" height="34" alt="scikit-learn"/>
-<img src="https://cdn.simpleicons.org/scipy" width="34" height="34" alt="SciPy"/>
-<img src="https://cdn.simpleicons.org/tensorflow" width="34" height="34" alt="TensorFlow"/>
-<img src="https://cdn.simpleicons.org/opencv" width="34" height="34" alt="OpenCV"/>
-<img src="https://cdn.simpleicons.org/nvidia" width="34" height="34" alt="NVIDIA / CUDA"/>
-</p>
-
-**🚀 DevOps, Cloud & CI/CD**
-<p align="left">
-<img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git"/>
-<img src="https://cdn.simpleicons.org/github/white" width="34" height="34" alt="GitHub"/>
-<img src="https://cdn.simpleicons.org/docker" width="34" height="34" alt="Docker"/>
-<img src="https://cdn.simpleicons.org/kubernetes" width="34" height="34" alt="Kubernetes"/>
-<img src="https://cdn.simpleicons.org/jenkins" width="34" height="34" alt="Jenkins"/>
-<img src="https://cdn.simpleicons.org/vercel/white" width="34" height="34" alt="Vercel"/>
-<img src="https://cdn.simpleicons.org/render" width="34" height="34" alt="Render"/>
-<img src="https://cdn.simpleicons.org/netlify" width="34" height="34" alt="Netlify"/>
-</p>
-
-**🛠️ Tools & Platforms**
-<p align="left">
-<img src="https://cdn.simpleicons.org/npm" width="34" height="34" alt="NPM"/>
-<img src="https://cdn.simpleicons.org/nodemon" width="34" height="34" alt="Nodemon"/>
-<img src="https://cdn.simpleicons.org/postman" width="34" height="34" alt="Postman"/>
-<img src="https://cdn.simpleicons.org/jira" width="34" height="34" alt="Jira"/>
-<img src="https://cdn.simpleicons.org/notion/white" width="34" height="34" alt="Notion"/>
-<img src="https://cdn.simpleicons.org/latex/white" width="34" height="34" alt="LaTeX"/>
-<img src="https://cdn.simpleicons.org/ffmpeg" width="34" height="34" alt="FFmpeg"/>
-<img src="https://img.shields.io/badge/-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" height="34" alt="After Effects"/>
-</p>
-
-**🎮 Also Into**
-<p align="left">
-<img src="https://cdn.simpleicons.org/steam/white" width="34" height="34" alt="Steam"/>
-<img src="https://cdn.simpleicons.org/riotgames" width="34" height="34" alt="Riot Games"/>
+<p align="center">
+<img src="https://cdn.simpleicons.org/javascript" width="34"/>
+<img src="https://cdn.simpleicons.org/react" width="34"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" width="34"/>
+<img src="https://cdn.simpleicons.org/nodedotjs" width="34"/>
+<img src="https://cdn.simpleicons.org/express/white" width="34"/>
+<img src="https://cdn.simpleicons.org/postgresql" width="34"/>
+<img src="https://cdn.simpleicons.org/mongodb" width="34"/>
+<img src="https://cdn.simpleicons.org/prisma/white" width="34"/>
+<img src="https://cdn.simpleicons.org/python" width="34"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="34"/>
+<img src="https://cdn.simpleicons.org/docker" width="34"/>
+<img src="https://cdn.simpleicons.org/git" width="34"/>
+<img src="https://cdn.simpleicons.org/github/white" width="34"/>
+<img src="https://cdn.simpleicons.org/postman" width="34"/>
+<img src="https://img.shields.io/badge/-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" height="34"/>
 </p>
 
 <br/>

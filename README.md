@@ -147,12 +147,6 @@ Combines a Python-based ML pipeline with a lightweight Flask API and a React das
 
 ---
 
-<div align="center">
-<img src="./assets/divider.gif" width="100%" alt="rain divider"/>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -163,16 +157,6 @@ Combines a Python-based ML pipeline with a lightweight Flask API and a React das
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Oriacgz&theme=radical&hide_border=true&border_radius=8&background=0d0b1e&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Oriacgz&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -234,6 +218,10 @@ current_focus:
 </div>
 
 ---
+
+<div align="center">
+<img src="./assets/divider.gif" width="100%" alt="rain divider"/>
+</div>
 
 <div align="center">
 

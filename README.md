@@ -83,6 +83,6 @@ Outside of programming, I create motion graphics and edit videos—another way I
 > build.
 > break.
 > learn.
-> repeat. 
+ > repeat. 
 ```
 </div>

@@ -36,7 +36,7 @@ Outside of programming, I create motion graphics and edit videos—another way I
 
 ## ⚙️ Technologies I Work With
 
-<p align="center" margin-top="20px">
+<p align="center" padding-top: 12px;>
 <img src="https://cdn.simpleicons.org/javascript" width="34"/>
 <img src="https://cdn.simpleicons.org/react" width="34"/>
 <img src="https://cdn.simpleicons.org/tailwindcss" width="34"/>

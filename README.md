@@ -2,25 +2,25 @@
 
 <img src="./assets/banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+software+engineer+%2F+builder;%3E+backend+%2B+AI%2FML+%2B+full+stack;%3E+listening+to+the+rain..." alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=8FC1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+IT+student+%2F+builder;%3E+listening+to+the+rain..." alt="typing banner"/>
 
 <br/>
 
-<img src="./assets/terminal.svg" width="480" alt="animated system log"/>
+```<img src="./assets/terminal.svg" width="480" alt="animated system log"/>```
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.E-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Oriacgz"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Oriacgz&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Oriacgz?style=flat-square&color=6d28d9&labelColor=1a1a2e&logo=github&label=FOLLOWERS"/>
@@ -220,13 +220,9 @@ current_focus:
 ---
 
 <div align="center">
+*"Build. Break. Learn. Repeat."*
+  
 <img src="./assets/divider.gif" width="100%" alt="rain divider"/>
 </div>
-
-<div align="center">
-
-*"Build. Break. Learn. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer&animation=fadeIn"/>
 
 </div>

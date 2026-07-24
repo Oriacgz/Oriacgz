@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Apoorva%20Puranik&fontSize=42&fontColor=E6DEFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Building+scalable+backend+systems;Engineering+AI%2FML+powered+products;Full+Stack+Developer+%7C+IT+Student;Turning+ideas+into+production-grade+code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+software+engineer+%2F+builder;%3E+backend+%2B+AI%2FML+%2B+full+stack;%3E+listening+to+the+rain..." alt="typing banner"/>
 
 <br/>
+
+<img src="./assets/terminal.svg" width="480" alt="animated system log"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
@@ -140,6 +144,12 @@ A data analysis tool applying machine learning models to extract actionable insi
 Combines a Python-based ML pipeline with a lightweight Flask API and a React dashboard, focusing on interpretability and clean visualization of model outputs.
 
 </details>
+
+---
+
+<div align="center">
+<img src="./assets/divider.gif" width="100%" alt="rain divider"/>
+</div>
 
 ---
 

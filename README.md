@@ -6,10 +6,6 @@
 
 <br/>
 
-```<img src="./assets/terminal.svg" width="480" alt="animated system log"/>```
-
-<br/>
-
 <img src="https://img.shields.io/badge/B.E-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
 

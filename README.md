@@ -6,21 +6,21 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E-Information%20Technology-3D5570?style=flat-square&labelColor=0d1224"/>
+<img src="https://img.shields.io/badge/Location-India-2C3E52?style=flat-square&labelColor=0d1224&logo=googlemaps&logoColor=8FC1FF"/>
 
 <br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Oriacgz"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4A6FA5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/"><img src="https://img.shields.io/badge/LinkedIn-3D5570?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Email-2C3E52?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Oriacgz"><img src="https://img.shields.io/badge/GitHub-0d1224?style=for-the-badge&logo=github&logoColor=8FC1FF"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Oriacgz&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Oriacgz?style=flat-square&color=6d28d9&labelColor=1a1a2e&logo=github&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Oriacgz?style=flat-square&color=a78bfa&labelColor=1a1a2e&logo=github&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Oriacgz&style=flat-square&color=4a6fa5&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Oriacgz?style=flat-square&color=3d5570&labelColor=0d1224&logo=github&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Oriacgz?style=flat-square&color=8fc1ff&labelColor=0d1224&logo=github&label=STARS"/>
 
 </div>
 
@@ -147,15 +147,14 @@ Combines a Python-based ML pipeline with a lightweight Flask API and a React das
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Oriacgz&theme=dark&hide_border=true&border_radius=0&bg_color=0d1224&title_color=8fc1ff&text_color=c9d3e6&icon_color=6bcfa5&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Oriacgz&theme=dark&hide_border=true&border_radius=0&bg_color=0d1224&title_color=8fc1ff&text_color=c9d3e6&icon_color=4a6fa5&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Oriacgz&theme=dark&hide_border=true&border_radius=0&bg_color=0d1224&title_color=8fc1ff&text_color=c9d3e6&layout=compact" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Oriacgz&theme=dark&hide_border=true&border_radius=0&background=0d1224&ring=6bcfa5&fire=8fc1ff&currStreakLabel=8fc1ff" />
+<img src="https://streak-stats.demolab.com/?user=Oriacgz&theme=dark&hide_border=true&border_radius=0&background=0d1224&ring=4a6fa5&fire=8fc1ff&currStreakLabel=8fc1ff" />
 
 </div>
-
 
 ---
 
@@ -163,7 +162,7 @@ Combines a Python-based ML pipeline with a lightweight Flask API and a React das
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oriacgz&theme=react-dark&hide_border=true&bg_color=0d0b1e&color=a78bfa&line=8b5cf6&point=e6deff&area=true&area_color=6d28d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oriacgz&theme=react-dark&hide_border=true&bg_color=0d1224&color=8fc1ff&line=4a6fa5&point=c9d3e6&area=true&area_color=2c3e52"/>
 
 </div>
 
@@ -207,19 +206,19 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Oriacgz"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Gmail-3D5570?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/"><img src="https://img.shields.io/badge/LinkedIn-2C3E52?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Oriacgz"><img src="https://img.shields.io/badge/GitHub-0d1224?style=for-the-badge&logo=github&logoColor=8FC1FF"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-4A6FA5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
 ---
 
 <div align="center">
+
 *"Build. Break. Learn. Repeat."*
-<br>
+<br/>
 <img src="./assets/divider.gif" width="100%" alt="rain divider"/>
-</div>
 
 </div>

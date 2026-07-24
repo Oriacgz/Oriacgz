@@ -19,7 +19,6 @@
 <a href="mailto:papoorva25@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Gmail"/></a>
 </p>
 
-</br>
 
 ## 👨‍💻 About Me
 

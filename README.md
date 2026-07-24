@@ -54,7 +54,7 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 <img src="https://cdn.simpleicons.org/git" width="34"/>
 <img src="https://cdn.simpleicons.org/github/white" width="34"/>
 <img src="https://cdn.simpleicons.org/postman" width="34"/>
-<img src="https://img.shields.io/badge/-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" height="34"/>
+<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="34" alt="After Effects"/>
 </p>
 
 <br/>

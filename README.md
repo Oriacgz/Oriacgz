@@ -14,23 +14,25 @@
 
 ## 💫 About Me
 
-Hi, I'm **Apoorva** — an Information Technology student who enjoys building real-world tech projects and learning new technologies.
+I'm **Apoorva**, an IT student who'd rather learn by shipping something than by reading about it. Most of what I know about backend systems and databases came from breaking my own projects and figuring out why — Java, Rust, and Python for the logic, MySQL and PostgreSQL for everything that needs to be remembered.
 
-- 🚀 I like creating practical applications such as web apps, APIs, and data-driven systems.
-- 🤖 Currently exploring AI-powered applications and modern web technologies.
-- 🎬 Beyond coding, I also enjoy video editing and motion graphics, working with tools like After Effects to create creative visual content.
-- 📚 I believe in learning by building, experimenting with new ideas, and continuously improving my skills.
-- ⚡ Always curious about technology and how it can solve real-world problems.
+Lately I've been pulling AI into that mix, building small tools that actually do something rather than just demo well. Outside of code, I edit video and put together motion graphics in After Effects — a different kind of building, but the same instinct to keep making things.
+
+- 🚀 Backend-leaning builder — APIs, data-driven systems, things with moving parts
+- 🤖 Exploring how AI fits into real, usable applications
+- 🎬 Video editing & motion graphics on the side
+- 📚 Learn-by-building, always mid-experiment on something
+- ⚡ Curious by default about how things work under the hood
 
 <br/>
 
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.instagram.com/oriacgzz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@eternal6590" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
-<a href="mailto:papoorva25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/oriacgzz/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@eternal6590" target="_blank"><img src="https://cdn.simpleicons.org/youtube" width="36" height="36" alt="YouTube"/></a>&nbsp;&nbsp;
+<a href="mailto:papoorva25@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Gmail"/></a>
 </p>
 
 <br/>
@@ -39,83 +41,86 @@ Hi, I'm **Apoorva** — an Information Technology student who enjoys building re
 
 **🧠 Languages**
 <p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3" width="34" height="34" alt="CSS3"/>
+<img src="https://cdn.simpleicons.org/javascript" width="34" height="34" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="34" alt="Java"/>
+<img src="https://cdn.simpleicons.org/cplusplus" width="34" height="34" alt="C++"/>
+<img src="https://cdn.simpleicons.org/python" width="34" height="34" alt="Python"/>
+<img src="https://cdn.simpleicons.org/rust/white" width="34" height="34" alt="Rust"/>
 </p>
 
 **🎨 Frontend**
 <p align="left">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white" />
+<img src="https://cdn.simpleicons.org/react" width="34" height="34" alt="React"/>
+<img src="https://cdn.simpleicons.org/vite" width="34" height="34" alt="Vite"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="TailwindCSS"/>
+<img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap"/>
+<img src="https://cdn.simpleicons.org/flutter" width="34" height="34" alt="Flutter"/>
+<img src="https://cdn.simpleicons.org/chartdotjs" width="34" height="34" alt="Chart.js"/>
 </p>
 
 **⚙️ Backend & APIs**
 <p align="left">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />
+<img src="https://cdn.simpleicons.org/nodedotjs" width="34" height="34" alt="Node.js"/>
+<img src="https://cdn.simpleicons.org/express/white" width="34" height="34" alt="Express.js"/>
+<img src="https://cdn.simpleicons.org/django/white" width="34" height="34" alt="Django"/>
+<img src="https://cdn.simpleicons.org/fastapi" width="34" height="34" alt="FastAPI"/>
+<img src="https://cdn.simpleicons.org/streamlit" width="34" height="34" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens/white" width="34" height="34" alt="JWT"/>
 </p>
 
 **🗄️ Databases**
 <p align="left">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+<img src="https://cdn.simpleicons.org/mysql" width="34" height="34" alt="MySQL"/>
+<img src="https://cdn.simpleicons.org/postgresql" width="34" height="34" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/mongodb" width="34" height="34" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/mariadb/white" width="34" height="34" alt="MariaDB"/>
+<img src="https://cdn.simpleicons.org/prisma/white" width="34" height="34" alt="Prisma"/>
 </p>
 
 **🤖 AI / ML / Data**
 <p align="left">
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green" />
+<img src="https://cdn.simpleicons.org/numpy" width="34" height="34" alt="NumPy"/>
+<img src="https://cdn.simpleicons.org/pandas/white" width="34" height="34" alt="Pandas"/>
+<img src="https://img.shields.io/badge/-white?style=flat-square&logo=Matplotlib&logoColor=black" height="34" alt="Matplotlib"/>
+<img src="https://cdn.simpleicons.org/pytorch" width="34" height="34" alt="PyTorch"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="34" height="34" alt="scikit-learn"/>
+<img src="https://cdn.simpleicons.org/scipy" width="34" height="34" alt="SciPy"/>
+<img src="https://cdn.simpleicons.org/tensorflow" width="34" height="34" alt="TensorFlow"/>
+<img src="https://cdn.simpleicons.org/opencv" width="34" height="34" alt="OpenCV"/>
+<img src="https://cdn.simpleicons.org/nvidia" width="34" height="34" alt="NVIDIA / CUDA"/>
 </p>
 
 **🚀 DevOps, Cloud & CI/CD**
 <p align="left">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=%2300C7B7" />
+<img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git"/>
+<img src="https://cdn.simpleicons.org/github/white" width="34" height="34" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/docker" width="34" height="34" alt="Docker"/>
+<img src="https://cdn.simpleicons.org/kubernetes" width="34" height="34" alt="Kubernetes"/>
+<img src="https://cdn.simpleicons.org/jenkins" width="34" height="34" alt="Jenkins"/>
+<img src="https://cdn.simpleicons.org/vercel/white" width="34" height="34" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/render" width="34" height="34" alt="Render"/>
+<img src="https://cdn.simpleicons.org/netlify" width="34" height="34" alt="Netlify"/>
 </p>
 
 **🛠️ Tools & Platforms**
 <p align="left">
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-%23171717.svg?style=flat-square&logo=ffmpeg&logoColor=5cb85c" />
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
+<img src="https://cdn.simpleicons.org/npm" width="34" height="34" alt="NPM"/>
+<img src="https://cdn.simpleicons.org/nodemon" width="34" height="34" alt="Nodemon"/>
+<img src="https://cdn.simpleicons.org/postman" width="34" height="34" alt="Postman"/>
+<img src="https://cdn.simpleicons.org/jira" width="34" height="34" alt="Jira"/>
+<img src="https://cdn.simpleicons.org/notion/white" width="34" height="34" alt="Notion"/>
+<img src="https://cdn.simpleicons.org/latex/white" width="34" height="34" alt="LaTeX"/>
+<img src="https://cdn.simpleicons.org/ffmpeg" width="34" height="34" alt="FFmpeg"/>
+<img src="https://img.shields.io/badge/-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" height="34" alt="After Effects"/>
 </p>
 
-
+**🎮 Also Into**
+<p align="left">
+<img src="https://cdn.simpleicons.org/steam/white" width="34" height="34" alt="Steam"/>
+<img src="https://cdn.simpleicons.org/riotgames" width="34" height="34" alt="Riot Games"/>
+</p>
 
 <br/>
 
@@ -146,5 +151,7 @@ Hi, I'm **Apoorva** — an Information Technology student who enjoys building re
 > thanks for stopping by. stay dry out there. _
 ```
 
+[![](https://komarev.com/ghpvc/?username=Oriacgz&icon=0&color=0&style=flat-square)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Oriacgz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>

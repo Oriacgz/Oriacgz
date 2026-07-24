@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/oriacgzz/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@eternal6590" target="_blank"><img src="https://cdn.simpleicons.org/youtube" width="36" height="36" alt="YouTube"/></a>&nbsp;&nbsp;
 <a href="mailto:papoorva25@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Gmail"/></a>
 </p>

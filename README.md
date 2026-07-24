@@ -2,13 +2,15 @@
 
 <img src="./assets/banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+software+engineer+%2F+builder;%3E+backend+%2B+AI%2FML+%2B+full+stack;%3E+listening+to+the+rain..." alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=8FC1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+IT+student+%2F+builder;%3E+listening+to+the+rain..." alt="typing banner"/>
 
 <br/>
 
 <img src="./assets/terminal.svg" width="480" alt="animated system log"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1a1a2e&logo=googlemaps&logoColor=white"/>

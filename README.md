@@ -37,8 +37,6 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <p align="center">
 <img src="https://cdn.simpleicons.org/javascript" width="34"/>
 <img src="https://cdn.simpleicons.org/react" width="34"/>
@@ -54,7 +52,7 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 <img src="https://cdn.simpleicons.org/git" width="34"/>
 <img src="https://cdn.simpleicons.org/github/white" width="34"/>
 <img src="https://cdn.simpleicons.org/postman" width="34"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" width="34" alt="After Effects"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaftereffects.svg" width="34" alt="After Effects"/>
 </p>
 
 <br/>

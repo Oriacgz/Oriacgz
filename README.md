@@ -116,6 +116,7 @@ Hi, I'm **Apoorva** — an Information Technology student who enjoys building re
 </p>
 
 
+
 <br/>
 
 ## 📊 GitHub Stats
@@ -134,7 +135,7 @@ Hi, I'm **Apoorva** — an Information Technology student who enjoys building re
 <br/>
 
 <div align="center">
-<img src="./assets/divider.svg" width="100%" alt="pixel rain divider"/>
+<img src="./assets/divider.gif" width="100%" alt="rain divider"/>
 </div>
 
 <br/>
@@ -144,5 +145,6 @@ Hi, I'm **Apoorva** — an Information Technology student who enjoys building re
 ```
 > thanks for stopping by. stay dry out there. _
 ```
+
 
 </div>

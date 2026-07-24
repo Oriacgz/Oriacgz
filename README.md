@@ -52,7 +52,7 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 <img src="https://cdn.simpleicons.org/git" width="34"/>
 <img src="https://cdn.simpleicons.org/github/white" width="34"/>
 <img src="https://cdn.simpleicons.org/postman" width="34"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="34" height="34" alt="After Effects"/>
+
 </p>
 
 <br/>

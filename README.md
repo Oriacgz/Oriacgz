@@ -147,14 +147,15 @@ Combines a Python-based ML pipeline with a lightweight Flask API and a React das
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oriacgz&theme=radical&hide_border=true&border_radius=8&bg_color=0d0b1e&title_color=a78bfa&text_color=c9d3e6&icon_color=8b5cf6&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oriacgz&theme=radical&hide_border=true&border_radius=8&bg_color=0d0b1e&title_color=a78bfa&text_color=c9d3e6&layout=compact"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Oriacgz&theme=dark&hide_border=true&border_radius=0&bg_color=0d1224&title_color=8fc1ff&text_color=c9d3e6&icon_color=6bcfa5&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Oriacgz&theme=dark&hide_border=true&border_radius=0&bg_color=0d1224&title_color=8fc1ff&text_color=c9d3e6&layout=compact" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Oriacgz&theme=radical&hide_border=true&border_radius=8&background=0d0b1e&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img src="https://streak-stats.demolab.com/?user=Oriacgz&theme=dark&hide_border=true&border_radius=0&background=0d1224&ring=6bcfa5&fire=8fc1ff&currStreakLabel=8fc1ff" />
 
 </div>
+
 
 ---
 

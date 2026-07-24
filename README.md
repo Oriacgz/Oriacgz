@@ -58,11 +58,11 @@ My work centers on designing clean backend architectures, building REST APIs, an
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark"/>
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,graphql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
 <br/>

@@ -12,6 +12,15 @@
 
 <br/>
 
+<p align="center">
+<a href="https://www.instagram.com/oriacgzz/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@eternal6590" target="_blank"><img src="https://cdn.simpleicons.org/youtube" width="36" height="36" alt="YouTube"/></a>&nbsp;&nbsp;
+<a href="mailto:papoorva25@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Gmail"/></a>
+</p>
+
+</br>
+
 ## 💫 About Me
 
 I'm **Apoorva**, an IT student who'd rather learn by shipping something than by reading about it. Most of what I know about backend systems and databases came from breaking my own projects and figuring out why — Java, Rust, and Python for the logic, MySQL and PostgreSQL for everything that needs to be remembered.
@@ -23,17 +32,6 @@ Lately I've been pulling AI into that mix, building small tools that actually do
 - 🎬 Video editing & motion graphics on the side
 - 📚 Learn-by-building, always mid-experiment on something
 - ⚡ Curious by default about how things work under the hood
-
-<br/>
-
-## 🌐 Socials
-
-<p align="left">
-<a href="https://www.instagram.com/oriacgzz/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/apoorva-puranik-62702b273/" target="_blank"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@eternal6590" target="_blank"><img src="https://cdn.simpleicons.org/youtube" width="36" height="36" alt="YouTube"/></a>&nbsp;&nbsp;
-<a href="mailto:papoorva25@gmail.com"><img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Gmail"/></a>
-</p>
 
 <br/>
 

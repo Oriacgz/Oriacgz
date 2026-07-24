@@ -217,7 +217,7 @@ current_focus:
 
 <div align="center">
 *"Build. Break. Learn. Repeat."*
-  
+<br>
 <img src="./assets/divider.gif" width="100%" alt="rain divider"/>
 </div>
 

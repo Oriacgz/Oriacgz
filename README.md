@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=8FC1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=%3E+hi%2C+i%27m+apoorva_;%3E+IT+student+%2F+builder;%3E+listening+to+the+rain..." alt="typing banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=8FC1FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%3E+hi%2C+i%27m+apoorva_;%3E+IT+student+%2F+builder;%3E+listening+to+the+rain..." alt="typing banner"/>
 
 <br/>
 
